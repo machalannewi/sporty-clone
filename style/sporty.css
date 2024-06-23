@@ -1,0 +1,191 @@
+.header {
+  background-color: red;
+  padding-top: 30px;
+  height: 120px;
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+}
+.header-left-section {
+  display: flex;
+  align-items: center;
+
+}
+.header-right-section {
+  display: inline-block;
+  margin-left: 600px;
+  margin-top: -33px;
+}
+
+.sporty-logo {
+  width: 170px;
+  padding-left: 130px;
+  
+}
+
+.nigeria-flag {
+  width: 100px;
+  
+}
+.mobile-number {
+  height: 32px;
+  width: 190px;
+  background-color: rgb(182, 6, 6);
+  border-style: none;
+  color: hsla(0,0%,100%,.6);
+
+}
+
+.password {
+  height: 32px;
+  width: 190px;
+  background-color: rgb(182, 6, 6);
+  border-style: none;
+}
+.login-button {
+  height: 32px;
+  width: 70px;
+  background-color: rgb(142, 6, 6);
+  border-style: none;
+  margin-left: -5px;
+  color: hsla(0,0%,100%,.6);
+}
+.register-button {
+  color: white;
+  height: 32px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  background-color: red;
+  margin-left: 5px;
+  margin-right: 130px;
+  border-radius: 2px;
+}
+.forgot-password {
+  font-size: 12.7px;
+  color: hsla(0,0%,100%,.6);
+  padding-left: 154px;
+  margin-top: 5px;
+}
+.sport-casino {
+  color: white;
+  font-size: 14px; 
+  display: flex;
+  padding-left: 130px;
+  padding-top: 20px;
+  font-size: 14px;
+  
+}
+.header-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 35.5px;
+  width: 92px;
+  padding-top: 7px;
+  margin-top: -14px;
+  padding-bottom: 7px;
+  
+}
+.header-link:hover {
+  transform: skew(-3deg);
+  background-color: rgb(182, 6, 6);
+  cursor: pointer;
+}
+
+
+.home-page {
+  display: flex;
+  justify-content: space-between;
+  height: 250px;
+  margin-top: 150px;
+  
+  
+}
+.left-section {
+ 
+ padding-left: 130px;
+ padding-right: 40px;
+ position: relative;
+ background-color:  rgb(27, 30, 37);
+ color: white;
+ width: 200px;
+ 
+}
+.middle-section {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  
+}
+.sporty-image {
+  flex: 1;
+}
+.right-section {
+  background-color:  rgb(27, 30, 37);
+  padding-left: 20px;
+  padding-right: 130px;
+  color: white;
+  position: relative;
+  width: 200px;
+  
+}
+.left-image {
+  width: 300px;
+  height: 250px;
+  
+}
+.left-background-image {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  margin-left: -200;
+
+}
+.right-image {
+  width: 300px;
+  height: 250px;
+  
+}
+.right-background-image {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  margin-right: -200;
+    
+}
+.home-page-register {
+  background-color: rgb(19, 142, 19);
+  margin-top: 10px;
+  width: 200px;
+  height: 38px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 15
+
+}
+.deposit-text {
+  font-size: 12px;
+  color: rgb(65, 225, 65);
+  font-size: 12.5px;
+  font-weight: 700;
+
+}
+.instant-reg {
+  font-size: 18px;
+}
+.placeholder {
+  width: 200px;
+  height: 40px;
+
+}
+.bet-now {
+  margin-left: 140px;
+  margin-top: 20px;
+}
